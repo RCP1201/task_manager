@@ -99,28 +99,4 @@ while fechaapp.lower() == "não":
 
 
 
-    # print("Escolha uma das opções abaixo: ")
-    # addtarefa = input(str("Adicionar uma nova tarefa? "))
-    # if addtarefa.lower() == "sim":
-    #     print("Digite a nova tarefa: ")
-    #     task = input(str(""))
-    #     taskrecebe = tarefas(task, vertarefa, concluida)
-    #     lista_tarefas.append(taskrecebe)
-    #     taskrecebe.incluir() 
-    # else:
-    #     finalizada = input(str("Concluir uma tarefa? "))
     
-    # if finalizada.lower() =="sim":
-    #     print("Qual tarefa deseja concluir? ")
-    #     concluida = input(str(""))
-    #     taskremove = tarefas(task, vertarefa, concluida)
-    #     lista_tarefas.remove(taskremove)
-    #     taskremove.conclui()
-    # else:
-    #     vertarefa = input(str("Exibir todas as tarefas? "))
-    # if vertarefa.lower() == "sim":
-    #     tarefas.mostra ()
-    #     print(lista_tarefas)
-    # else:
-    #     print("Escolha uma opção")
-    # fechaapp = input("Fechar aplicativo? ")
